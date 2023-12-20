@@ -37,10 +37,10 @@ Choose between a single text file or a ZIP file with text files for each page.
 
 Download the extracted text files or ZIP file based on your preferences.
 # Dependencies
-Streamlit
-pdf2image
-pytesseract
-pdfminer.six
+- Streamlit
+- pdf2image
+- pytesseract
+- pdfminer.six
 
 # Author
 Jahnavi Sharma 
